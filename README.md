@@ -35,6 +35,14 @@
        - 0/1: Can't include an item multiple times.  
        - Bounded: Can include an item multiple times but with a limit.   
        - Unbounded: Can include an item multiple times with no limit.    
+ 
  - Types of Knapsack:  
        - Fractional: Can include a part of an item.  
        - Integer: Can't include a part of an item. 
+ 
+ - Some Knapsack problems variations:  
+       - Subset sum problem  
+       - Partition equals subset problem  
+       - Count of Subsets with particular sum.  
+       - Partition of Set into 2 subsets such that difference of both the subsets should be minimum.  
+       - Target Sum.  
