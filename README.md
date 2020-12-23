@@ -51,4 +51,6 @@
  
  - Given a List of Matrices.
  - Find the most efficient way to multiply the matrices together.
+ - Find the efficient way such that we have minimum no of multiplications.
+ - Various types of problems including strings,arrays etc.
   
