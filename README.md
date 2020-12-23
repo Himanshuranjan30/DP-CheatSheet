@@ -46,3 +46,9 @@
        - Count of Subsets with particular sum.  
        - Partition of Set into 2 subsets such that difference of both the subsets should be minimum.  
        - Target Sum.  
+   
+ `Matrix Chain Multiplication`  
+ 
+ - Given a List of Matrices.
+ - Find the most efficient way to multiply the matrices together.
+  
